@@ -1,6 +1,8 @@
 {
   "name": "Chronicle",
   "short_name": "Chronicle",
+  "description": "Visual diary app for screenshots",
+  "id": "chronicle-app",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#e2f0fe",
